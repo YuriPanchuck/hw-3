@@ -196,8 +196,8 @@ img {
 }
 /*----------------HERO LIST------------*/
 .hero-list {
-  margin-top: 94px;
-  margin-bottom: 94px;
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 .hero-pre-title {
@@ -241,7 +241,7 @@ img {
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--third-title-color);
-  padding-bottom: 50px;
+  margin-bottom: 50px;
 }
 .work-list {
   display: flex;
@@ -259,8 +259,8 @@ img {
 }
 /*---------------------TEAM-------------------- */
 .team {
-  margin-top: 94px;
-  margin-bottom: 94px;
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 .team-title {
   font-weight: bold;
@@ -270,7 +270,7 @@ img {
   letter-spacing: 0.03em;
 
   color: var(--third-title-color);
-  padding-bottom: 50px;
+  margin-bottom: 50px;
 }
 .team-name {
   font-weight: 500;
